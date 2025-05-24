@@ -28,7 +28,7 @@ This project implements an AI-powered content generation tool featuring:
 
 1. Clone the repository and navigate to the backend folder:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/SAMurai-16/Review_Template.git
    cd backend
    ```
 2. Install backend dependencies:
