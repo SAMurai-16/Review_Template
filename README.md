@@ -29,12 +29,12 @@ This project implements an AI-powered content generation tool featuring:
 1. Clone the repository and navigate to the backend folder:
    ```bash
    git clone <your-repo-url>
-   cd <your-backend-folder>
+   cd backend
    ```
 2. Install backend dependencies:
    ```bash
-   git clone <your-repo-url>
-   cd backend
+   pip install -r requirements.txt
+
    ```
 3. Add your Gemini API key to your Django settings (settings.py):
    ```bash
